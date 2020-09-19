@@ -18,4 +18,4 @@ npm start
 
 ## Site
 
-[HNK] (https://codesandbox.io/s/github/halenisakus/react-website)
+[HNK](https://codesandbox.io/s/github/halenisakus/react-website)
