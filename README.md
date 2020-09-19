@@ -11,12 +11,10 @@ npm start
 
 ## Used Technologies
 
-```bash
-Responsive Design CSS Library <br/>
-Node.js <br/>
-React Hooks <br/>
-React Router <br/>
-```
+- Responsive Design CSS Library <br/>
+- Node.js <br/>
+- React Hooks <br/>
+- React Router <br/>
 
 ## Site
 
