@@ -3,8 +3,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/halenisakus/todo-app.git
-cd todo-app
+git clone https://github.com/halenisakus/react-website.git
+cd react-website
 npm install
 npm start
 ```
