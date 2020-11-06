@@ -12,7 +12,6 @@ npm start
 ## Used Technologies
 
 - Responsive Design CSS Library <br/>
-- Node.js <br/>
 - React Hooks <br/>
 - React Router <br/>
 - React Router DOM <br/>
